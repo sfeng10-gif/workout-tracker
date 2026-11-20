@@ -65,6 +65,10 @@ function App(){
             setWeight={setWeight}
             onClear={clear}
             addExercise={addExercise}
+            sets={sets}
+            reps={reps}
+            weight={weight}
+            error={error}
             />
             {exercises.length==0 ? (
                 <p>No tasks are added yet</p>

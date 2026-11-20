@@ -1,16 +1,52 @@
-# React + Vite
+# Workout Tracker
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple workout tracking application built with React and JavaScript.
 
-Currently, two official plugins are available:
+**Status: Work in Progress**
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## Features
 
-## React Compiler
+- Add exercises with name, sets, reps, and weight
+- Delete exercises from the list
+- Mark exercises as completed
+- Track workout completion progress
+- Clear all exercises
+- Validate user input
+- Save exercise data using localStorage
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## Technologies Used
 
-## Expanding the ESLint configuration
+- React
+- JavaScript
+- HTML
+- CSS
+- Vite
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Getting Started
+
+1. Clone this repository.
+2. Open the project folder in your terminal.
+3. Run `npm install` to install dependencies.
+4. Run `npm run dev` to start the development server.
+5. Open the local URL shown in the terminal.
+
+## What I Learned
+
+Through this project, I have been practicing:
+
+- React components and props
+- State management using `useState`
+- Side effects using `useEffect`
+- Array methods such as `map()` and `filter()`
+- Browser localStorage
+- Debugging and improving user interfaces
+
+## Future Improvements
+
+- Improve the user interface and responsive design
+- Add exercise editing functionality
+- Continue improving code organization
+
+## Project Status
+
+This project is still under development as I continue learning React and JavaScript.
