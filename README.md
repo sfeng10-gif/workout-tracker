@@ -50,3 +50,7 @@ Through this project, I have been practicing:
 ## Project Status
 
 This project is still under development as I continue learning React and JavaScript.
+
+## Screenshot
+
+![Workout Tracker Screenshot](screenshots/screenshot.png)
